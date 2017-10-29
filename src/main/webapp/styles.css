@@ -1,0 +1,56 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calibri, "sans-serif";
+    background-color: white;
+    color: #034961;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #034961;
+    color: white;
+    margin: 0;
+    padding: 1rem;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    padding: 1rem;
+}
+
+a:link {
+    color: #F5A623;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8D6708;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#messages {
+    border: 1px solid #ccc;
+    padding: 1em;
+}
+
+.error {
+    color: #999;
+    font-style: italic;
+}
+
+.warning {
+    color: #ccc;
+    font-style: italic;
+}

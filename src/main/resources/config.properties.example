@@ -1,0 +1,5 @@
+# Run no.kantega.tdc2017.keygen.GenerateKeys and replace the two lines at the bottom with the output.
+# Rename this file config.properties. The public key must also be pasted in the "server_key"
+# variable at the top of demo.js.
+privateKey=<base64 encoded data>
+publicKey=<base64 encoded data>
